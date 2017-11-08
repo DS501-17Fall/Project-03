@@ -1,0 +1,4 @@
+.gitignore
+.idea/
+.ipynb_checkpoints/
+poldata.README.2.0
